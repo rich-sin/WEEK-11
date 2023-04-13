@@ -2,9 +2,12 @@ public class Week11Code
 {
    public static void main (String [] args)
    {
+
+      // loop that prints numbers from 1-100
       for ( int numbers = 1; numbers <= 100; numbers ++)
       {
          System.out.println("Hello Word " + numbers );
+         system.out.println("This is all new to me!")
       }
 
 }
